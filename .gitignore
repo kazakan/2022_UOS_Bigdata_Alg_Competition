@@ -1,0 +1,8 @@
+**/out/**
+**/catboost_info/**
+/*.csv
+*.zip
+*.ttf
+*.pptx
+**/images/**
+data/train.csv
