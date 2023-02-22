@@ -68,4 +68,4 @@ data
   - 2.07
 - public score : 1.42315 / 9th
 - private score : 1.81481 / 6th
-- Awards : 3th
+- Awards : 3rd
